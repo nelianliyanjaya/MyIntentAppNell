@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentAppNell</string>
+    <string name="move_activity">MOVE ACTIVITY</string>
+    <string name="halaman_move_activity">Nell RN</string>
+    <string name="move_with_data">MOVE ACTIVITY WITH DATA</string>
+    <string name="data_received">Nell RN</string>
+    <string name="move_with_object">MOVE ACTIVITY WITH OBJECT</string>
+    <string name="object_received">Nell RN</string>
+</resources>
