@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyIntentAppNell</string>
+    <string name="move_activity">MOVE ACTIVITY</string>
+    <string name="halaman_move_activity">Nell RN</string>
+    <string name="move_with_data">MOVE ACTIVITY WITH DATA</string>
+    <string name="data_received">Nell RN</string>
+    <string name="move_with_object">MOVE ACTIVITY WITH OBJECT</string>
+    <string name="object_received">Nell RN</string>
+    <string name="dial_number">DIAL NUMBER</string>
+    <string name="choose_number">CHOOSE NUMBER Nell RN</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">CHOOSE U</string>
+    <string name="move_for_result">MOVE FOR RESULT</string>
+    <string name="result_from_activity">RESULT FROM ACTIVITY</string>
+</resources>
